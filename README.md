@@ -2,7 +2,6 @@
 **Enterprise Campus Access Management & Policy Intelligence Platform**  
 *Batch-17 Project Specification & Implementation*  
 *Lead Developer*: P. Nihal (24A81A0549)  
-*Team Members*: R. Eswar (25A81A0254), G. Hema Chandra (26A81A0416), S. Charan (25A81A0452), Ch. Ganesh (26A81A6176)
 
 ---
 
