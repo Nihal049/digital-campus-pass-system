@@ -1,0 +1,20 @@
+{
+  "name": "digital-campus-pass-system",
+  "version": "1.0.0",
+  "description": "Enterprise Digital Campus Pass System & RAG AI Assistant (Batch 17)",
+  "scripts": {
+    "start:backend": "cd backend && npm start",
+    "start:frontend": "cd frontend && npm run dev",
+    "test:backend": "cd backend && npm test",
+    "build:frontend": "cd frontend && npm run build"
+  },
+  "keywords": [
+    "campus-pass",
+    "qr-code",
+    "rag",
+    "ai-assistant",
+    "batch-17"
+  ],
+  "author": "P. Nihal & Team 17",
+  "license": "ISC"
+}
