@@ -1,8 +1,5 @@
 # Digital Campus Pass System & RAG AI Campus Assistant
 **Enterprise Campus Access Management & Policy Intelligence Platform**  
-*Batch-17 Project Specification & Implementation*  
-*Lead Developer*: P. Nihal (24A81A0549)  
-
 ---
 
 ## 1. Project Overview
